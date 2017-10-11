@@ -1,2 +1,2 @@
 # HelloWorldRepository
-This is a hello world reponsitory
+This is a hello world repository
